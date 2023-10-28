@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayatri Kumayu</h1>
 <h3 align="center">Student at Mahakal Institute of Technology</h3>
-<img align="center" alt="code image" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<h3><img align="center" alt="code image" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrikumayunew&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrikumayunew" /> </p>
 

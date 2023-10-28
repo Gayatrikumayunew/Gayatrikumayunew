@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gayatri Kumayu</h1>
 <h3 align="center">Student at Mahakal Institute of Technology</h3>
-<img align="center" alt="code image" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="center" margin-left="200" alt="code image" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
 

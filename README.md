@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gayatrikumayu1@gmail.com**
 
-- ⚡ Fun fact **I am Lazy :)**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
